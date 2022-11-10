@@ -23,7 +23,7 @@ body{
     border-radius: 100%;
 }
 .link-tree > h1{
-    font-size: ;
+    font-size:50px ;
     color: antiquewhite;
 }
 .link-tree > a{
@@ -45,5 +45,4 @@ body{
 }
 .link-tree > a:hover{
     background-color:black;
-    
 }
